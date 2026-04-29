@@ -136,6 +136,8 @@ db.session.commit()
 ---
 
 #  Part 2: Database Design
+SQL CODE File :
+https://drive.google.com/file/d/1ekc4KBQcpp5i75xF7LClaeX0sAHRkQTS/view?usp=sharing
 
 ## 📊 Schema
 
