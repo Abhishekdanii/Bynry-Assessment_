@@ -1,9 +1,0 @@
-Field,Type,Null,Key,Default,Extra
-id,char(36),NO,PRI,NULL,
-company_id,char(36),YES,MUL,NULL,
-name,varchar(255),NO,,NULL,
-sku,varchar(100),NO,UNI,NULL,
-price,"decimal(10,2)",NO,,NULL,
-low_stock_threshold,int,YES,,10,
-is_bundle,tinyint(1),YES,,0,
-created_at,timestamp,YES,,CURRENT_TIMESTAMP,DEFAULT_GENERATED
