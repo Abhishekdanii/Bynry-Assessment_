@@ -135,7 +135,7 @@ db.session.commit()
 
 ---
 
-# 🏗️ Part 2: Database Design
+#  Part 2: Database Design
 
 ## 📊 Schema
 
