@@ -53,3 +53,12 @@ Low-stock alerts consider:
 ---
 
 # 📂 Project Structure
+
+backend/
+│
+├── app.py # Entry point
+├── database.py # DB connection
+├── models.py # ORM models
+├── routes/
+│ └── alerts.py # Low stock API
+└── requirements.txt
